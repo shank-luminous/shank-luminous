@@ -1,5 +1,5 @@
 # About me
-### will update it after some work 
+### I'm learning to code
 
 <!--
 **shank-luminous/shank-luminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
